@@ -7,10 +7,10 @@ body {
 #nat {
 
 font-family: helvetica; 	
-font-weight: 300;
+font-weight: 500;
 font-size: 70px;
-width: 30%;
 margin-left: 425px;
+text-align: left;
 
 
 }
