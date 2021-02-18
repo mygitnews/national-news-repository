@@ -1,19 +1,40 @@
 
 
 
-.grid -container {
-
+.grid-container {
 	display: grid;
 	grid-template-columns: 200px 250px;
-	grid-auto-rows: minmax(150ppx, auto);
-	grid-row-gap: 20px;
-	grid-column-gap: 10px;
+	grid-auto-rows: minmax(150px, auto);
+	grid-gap: 20px;
+	justify-content: end;
+	justify-items: stretch;
+
+	"header header"
+	"sidebar content"
+	"sidebar content"
+
 
 
 }
 
 
+.grid-item-1 {
+	grid-column: span 2;
+	
 
+}
+
+
+.grid-item-2 {
+	grid-row: span 2;
+
+
+}
+
+
+.grid-item-3 {
+	grid-row: span 3;
+}
 
 /*
 #nat {
