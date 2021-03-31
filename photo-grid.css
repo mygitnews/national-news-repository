@@ -33,6 +33,12 @@
 	background-color: blue;
 	
 	}
+	
+#samplehere {
+	
+	background: green;
+	
+	}
 
 .card-wide {
 	grid-column: span 2 / auto;
