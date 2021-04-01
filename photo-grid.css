@@ -14,7 +14,7 @@
 	
 
 	grid-template-columns:   repeat(3, 250px);  
-	grid-template-rows: 175px 80px 175px;
+/*	grid-template-rows: 175px 80px 175px;  */
 
 
 }
