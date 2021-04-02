@@ -10,9 +10,6 @@
 
 	display: grid;
 	gap: .2rem;
-
-	
-
 	grid-template-columns: 200px 250px;  
 /*	grid-template-rows: 175px 80px 175px;  */
 	grid-auto-rows: minmax(250px, auto);
