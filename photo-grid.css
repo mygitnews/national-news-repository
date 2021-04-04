@@ -11,7 +11,7 @@
 	display: grid;
 	gap: .2rem;
 	grid-auto-template: repeat(auto-fit, minmax(300px, auto));  
-	grid-auto-rows: minmax(175px, auto);
+	grid-auto-rows: minmax(115px, auto);
 	
 	
 
