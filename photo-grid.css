@@ -10,7 +10,7 @@
 
 	display: grid;
 	gap: .2rem;
-<!--	grid-auto-template: repeat(200px 2fr, minmax(300px, auto));  -->
+/*	grid-auto-template: repeat(200px 2fr, minmax(300px, auto));  */
 	grid-auto-rows: repeat( 200px 2fr, minmax(215px, auto));
 	
 	
