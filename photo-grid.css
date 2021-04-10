@@ -11,7 +11,7 @@
 	display: grid;
 	gap: .4rem;
 	grid-auto-columns: repeat(2, 300px);  
-	grid-rows-auto: repeat(350px);
+	grid-rows-auto: (auto 350px);
 	
 }
 
