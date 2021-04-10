@@ -11,7 +11,7 @@
 	display: grid;
 	gap: .4rem;
 	grid-template-columns: repeat(3, 300px);  
-	grid-auto-rows: repeat(1, 350px);
+	grid-rows-auto: repeat(1, 350px);
 	
 }
 
