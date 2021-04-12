@@ -11,8 +11,11 @@
 	display: grid;
 	gap: .6rem;
 	align-items: center;
-	grid-template-columns: repeat(auto-fit, minmax(3, 300px));  
+	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));  
 	grid-template-rows: 200px 200px 100px;
+	
+	/*
+	grid-template-columns: repeat(3, 300px); */
 	
 }
 
