@@ -9,7 +9,7 @@
 
 
 	display: grid;
-	gap: .1rem;
+	gap: .2rem;
 	align-items: center;
 	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));  
 	grid-template-rows: 200px 200px 100px;
@@ -80,7 +80,7 @@
 	
 	border: 1px solid black;
 	
-	width: 300px;
+	
 	}
 	
 
