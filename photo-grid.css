@@ -50,7 +50,7 @@
 	
 .grid-item-4 {
 	
-	border: 1px solid black;
+	border-right: 1px solid grey;
 	
 	
 	}
@@ -68,7 +68,7 @@
 	
 .grid-item-6 {
 	
-	border: 1px solid black;
+	border-left: 1px solid grey;
 	
 
 	}
