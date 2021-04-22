@@ -15,7 +15,7 @@
 	
 	font-family: serif;
 	font-weight: bold;
-	padding: 10px;
+	
 
 	
 }
@@ -48,6 +48,7 @@
 .grid-item-3 {
 	
 	border-left: 1px solid grey;
+	padding: 10px;
 
 	
 	}
@@ -56,7 +57,7 @@
 .grid-item-4 {
 	
 	border-right: 1px solid grey;
-	
+	padding: 10px;
 	
 	}
 
@@ -74,6 +75,7 @@
 .grid-item-6 {
 	
 	border-left: 1px solid grey;
+	padding: 10px;
 	
 
 	}
@@ -83,6 +85,7 @@
 .grid-item-7 {
 	
 	border-right: 1px solid grey;
+	padding: 10px;
 	
 	
 	
@@ -94,6 +97,7 @@
 .grid-item-8 {
 	
 	border: none;
+	padding: 10px;
 	
 
 	}
@@ -103,6 +107,7 @@
 .grid-item-9 {
 	
 	border-left: 1px solid grey;
+	padding: 10px;
 	
 	
 	
