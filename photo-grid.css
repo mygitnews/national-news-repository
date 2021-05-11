@@ -73,7 +73,6 @@
 	
 .grid-item-6 {
 	
-	border-left: 1px solid grey;
 	padding: 10px;
 	
 
@@ -90,6 +89,7 @@
 	
 	
 	padding: 10px;
+	border: 1px solid black;
 	
 	
 	
