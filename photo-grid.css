@@ -123,7 +123,7 @@
 	
 	border-width: 10px solid black;
 	
-	width: 30px;
+	width: 300px;
 	
 	}
 	
@@ -132,6 +132,7 @@
 .grid-item-11 {
 	
 	border: 1px solid black;
+	width: 300px;
 	
 
 	}
