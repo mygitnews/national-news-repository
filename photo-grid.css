@@ -99,6 +99,7 @@
 .grid-item-9 {
 	
 	
+	border-left: 1px solid grey;
 	padding: 10px;
 	
 
@@ -120,8 +121,8 @@
 	
 .grid-item-11 {
 	
-	border: 1px solid gold;
-	width: 300px;
+	padding: 1px;
+	
 	
 
 	}
