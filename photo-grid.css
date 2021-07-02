@@ -28,7 +28,7 @@
 .grid-item-1 {
 	
 	
-	font-size: 14px;
+	font-size: 24px;
 	background-color: lightGrey;
 	padding: 10px;
 	text-color: red;
@@ -141,6 +141,7 @@
 
 .grid-item-12 {
 	
+	font-size: 18px;
 	padding:10px;
 	border: right;
 	
