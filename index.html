@@ -43,24 +43,19 @@
 	<div class="grid-item grid-item-9"9 <h1><a href="https://thelapine.ca/harper-unveils-subtle-changes-to-canadian-flag/">Does Canada Need A New Flag?</a></h1></div> 
 	<div class="grid-item grid-item-10"10> <img src="vinsent-alexandro-I9wrc3V69VE-unsplash.jpg"></div> 
 	
-	<div class="grid-item grid-item-11"11<h3><p> Which country will collapse first, Canada or the US? We want to hear your viewpoint.........  <label>Your Name: <input type="text" name="name" /></label>   
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Your Role: <select name="role[]" multiple>
-      <option value="leader">Leader</option>
-      <option value="follower">Follower</option>
-    </select></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
-</form>...</p><a href="mailto:nationalnewsline@mail.com">contact: Nationalnewsline</a></div>
+	<div class="grid-item grid-item-11"11<h3><p> Which country will collapse first, Canada or the US? We want to hear your viewpoint..document.querySelector("form").addEventListener("submit", handleSubmit);
+
+const handleSubmit = (e) => {
+  e.preventDefault()
+  let myForm = document.getElementById('pizzaOrder');
+  let formData = new FormData(myForm)
+  fetch('/', {
+    method: 'POST',
+    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+    body: new URLSearchParams(formData).toString()
+  }).then(() => console.log('Form successfully submitted')).catch((error) =>
+    alert(error))
+}....<a href="mailto:nationalnewsline@mail.com">contact: Nationalnewsline</a></div>
 	<div class="grid-item grid-item-12"12><a href="https://vancouversun.com/news/staff-blogs/the-dangers-of-trudeaus-postnational-canada">Canada:The Post-National State</a></div>
 	 
 	<img src="/mynewssite2/8FA71764-10B4-4194-9B43-0EE7C2C58E4F-1-192x143-0.png" width="50" height="50" alt= "my new pic"/>
