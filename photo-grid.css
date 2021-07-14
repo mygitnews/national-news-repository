@@ -14,7 +14,7 @@
 	display: grid;
 	gap: .1rem;
 	grid-template-columns: repeat(auto-fit, minmax(400px, 2fr));  
-	grid-template-rows: repeat(12, 200px);
+	grid-auto-rows: repeat(12, 200px);
 	
 	font-family: serif;
 	font-weight: bold;
