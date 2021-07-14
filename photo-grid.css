@@ -19,9 +19,16 @@
 	font-family: serif;
 	font-weight: bold;
 	
+}
 
+
+
+.card-tall {
+
+	grid-row: 1/3;
 	
 }
+
 
 
 
