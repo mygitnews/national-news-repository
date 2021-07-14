@@ -25,7 +25,7 @@
 
 .card-tall {
 
-	grid-row: 1 / 4;
+	grid-row: span 1 / 4;
 	
 }
 
