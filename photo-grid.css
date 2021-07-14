@@ -7,7 +7,6 @@
 }
  
 
-
 .photo-grid {
 
 
@@ -16,11 +15,10 @@
 	grid-template-columns: repeat(auto-fit, minmax(400px, 2fr));  
 	grid-template-rows: repeat(12, 200px);
 	
-	font-family: serif;
+	font-family: sans-serif;
 	font-weight: bold;
 	
 }
-
 
 
 .card-tall {
@@ -28,7 +26,6 @@
 	grid-row: span 1 / 7;
 	
 }
-
 
 
 
@@ -112,8 +109,6 @@
 	
 	}
 	
-
-
 	
 .grid-item-9 {
 	
@@ -131,12 +126,9 @@
 	border-left: 1px solid black;
 	padding: 10px;
 	
-	
-	
+		
 	}
 	
-
-
 	
 .grid-item-11 {
 	
