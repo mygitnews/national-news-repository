@@ -17,15 +17,9 @@
 	
 	font-family: serif;
 	font-weight: bold;
-	
-}
-
-
-.photo-grid {
-	
 	grid-column-1: start;
 	grid-column-4: end;
-}
+}	
 	
 
 .card-tall {
