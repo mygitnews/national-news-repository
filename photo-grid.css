@@ -21,6 +21,13 @@
 }
 
 
+.grid-item-1 {
+	
+	grid-column-1: start;
+	grid-column-4: end;
+}
+	
+
 .card-tall {
 
 	grid-row: span 1 / 7;
