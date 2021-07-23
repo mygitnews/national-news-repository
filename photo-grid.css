@@ -21,7 +21,7 @@
 }
 
 
-.grid-item-1 {
+.photo-grid {
 	
 	grid-column-1: start;
 	grid-column-4: end;
