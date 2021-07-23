@@ -23,7 +23,6 @@
 
 .card-tall {
 
-	grid-row: span 1 / 7;
 	
 	grid-column-1: start;
 	grid-column-4: end;
