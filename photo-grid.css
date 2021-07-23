@@ -30,8 +30,8 @@
 	text-color: red;
 	line-height: 1;
 		
-	grid-column-1: start;
-	grid-column-4: end;
+	grid-column-start: 1;
+	grid-column-end: 7;
 	
 	}
 	
