@@ -29,6 +29,7 @@
 	padding: 10px;
 	text-color: red;
 	line-height: 1;
+	border-height: 150px;
 		
 	grid-column-start: 1;
 	grid-column-end: 5;
