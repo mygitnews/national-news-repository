@@ -29,8 +29,7 @@
 	padding: 10px;
 	text-color: red;
 	line-height: 1;
-	height: 150px;
-	border-style: spotted;
+	height: 100px;
 		
 	grid-column-start: 1;
 	grid-column-end: 5;
