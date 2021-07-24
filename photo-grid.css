@@ -30,6 +30,8 @@
 	text-color: red;
 	line-height: 1;
 	border-height: 150px;
+	border-width: 400px;
+	border-style: spotted;
 		
 	grid-column-start: 1;
 	grid-column-end: 5;
