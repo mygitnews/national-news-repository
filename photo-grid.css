@@ -12,7 +12,7 @@
 
 	display: grid;
 	gap: .1rem;
-	grid-template-columns: 1fr 2fr 1fr 1fr; /* repeat(auto-fit, minmax(300px, 3fr));  */
+	grid-template-columns: repear(12, 1fr); /* repeat(auto-fit, minmax(300px, 3fr));  */
 	grid-template-rows: 300px 300px 300px; /* repeat(12, 200px); */
 	
 	font-family: serif;
