@@ -12,13 +12,13 @@
 
 	display: grid;
 	gap: .1rem;
-	grid-template-columns: 300px 300px 300px 300px 300px 300px 300px 300px 300px 300px 300px 300px; /* repeat(auto-fit, minmax(300px, 3fr));  */
+	grid-template-columns: 300% 300% 300% 300% 300%; /* repeat(auto-fit, minmax(300px, 3fr));  */
 	grid-template-rows: 300px /* repeat(12, 200px); */
 	
 	font-family: serif;
 	font-weight: bold;
 	
-	max-width: 700px;
+
 	
 }	
 
