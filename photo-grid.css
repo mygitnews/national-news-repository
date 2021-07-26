@@ -13,11 +13,11 @@
 	display: grid;
 	gap: .1rem;
 	grid-template-columns:  repeat(auto-fit, minmax(300px, 3fr));  
-	grid-template-rows: 300px 300px 300px; /* repeat(12, 200px); */
+	grid-template-rows: 300px 200px 300px; /* repeat(12, 200px); */
 	
 	font-family: serif;
 	font-weight: bold;
-	max-width: 950px;
+	max-width: 1000px;
 
 	
 }	
