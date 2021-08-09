@@ -13,7 +13,7 @@
 	display: grid;
 	gap: .1rem;
 	grid-template-columns:  repeat(auto-fit, minmax(300px, 3fr));  
-	grid-template-rows: repeat(12, 150px); 
+	grid-auto-rows: repeat(12, 150px); 
 	
 	font-family: serif;
 	font-weight: bold;
@@ -86,7 +86,7 @@
 	
 	border-left: 1px solid grey;
 	padding: 10px;
-	height: 20px;
+
 	
 
 	}
