@@ -118,9 +118,14 @@
 	border-left: 1px solid grey;
 	padding: 20px;
 
-	
-
 	}
+
+.textarea-field {
+	
+	height: 300px;
+	width: 315px;
+	
+}
 	
 
 	
