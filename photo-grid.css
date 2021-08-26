@@ -12,7 +12,7 @@
 	@media screen and (min-width: 600px) {	
 		grid-template-rows: repeat(12, 150px);
 		
-	}
+	
 		
 	display: grid;
 	gap: .1rem;
@@ -23,6 +23,8 @@
 	font-weight: bold;
 	max-width: 1000px;
 	margin: auto;
+		
+	}
 
 	
 }	
