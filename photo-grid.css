@@ -71,15 +71,6 @@
 	
 	}
 
-
-
-.textarea-field {
-	
-	height:300px;
-	width: 315px;
-	
-}
-
 	
 .grid-item-5 {	
 	
@@ -130,11 +121,16 @@
 	font-weight: 400;
 	border-left: 1px solid grey;
 	
+}
 
 
-	}
 
+.textarea-field {
 	
+	height:300px;
+	width: 315px;
+	
+}
 
 	
 .grid-item-10 {
